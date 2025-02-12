@@ -19,3 +19,7 @@ Draftable allows you to compare text, word documents or PDF files online.
 
 Hemingway App makes your writing concise and correct.
 
+4. GitHUb Pages with Jekyll
+
+[Template: Academic Pages](https://github.com/academicpages/academicpages.github.io?tab=readme-ov-file)
+
