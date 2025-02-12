@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Blog on My Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content in Personal Blog on My Hugo Site</description>
+    <title>Dai Ziyan&#39;s Personal Blog on My Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Dai Ziyan&#39;s Personal Blog on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2024 15:31:53 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 11:03:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document Management</title>
+      <link>http://localhost:1313/document-management/</link>
+      <pubDate>Wed, 09 Oct 2024 11:03:32 +0800</pubDate>
+      <guid>http://localhost:1313/document-management/</guid>
+      <description>Here are some strategies for you to manage and improve your documents.&#xA;How to manage mountains of feedback Managing feedback on documentation can be time-consuming, and it always takes time away from documenting new product functionality. If you can’t hire more writers, you can try these strategies:&#xA;Tag feedback based on the effort needed so writers can tackle quick fixes during breaks from complex tasks. Schedule bigger tasks along with regular work.</description>
+    </item>
+    <item>
+      <title>Technical Writing</title>
+      <link>http://localhost:1313/technical-writing/</link>
+      <pubDate>Wed, 09 Oct 2024 10:40:59 +0800</pubDate>
+      <guid>http://localhost:1313/technical-writing/</guid>
+      <description>Recognize ambiguous pronouns Many pronouns point to a previously introduced noun. Such pronouns are analogous to pointers in programming. Like pointers in programming, pronouns tend to introduce errors. Using pronouns improperly causes the cognitive equivalent of a null pointer error in your readers’ heads. In many cases, you should simply avoid the pronoun and just reuse the noun. However, the utility of a pronoun sometimes outweighs its risk (as in this sentence).</description>
+    </item>
     <item>
       <title>Hugo Quickstart</title>
-      <link>https://example.org/hugo-quickstart/</link>
+      <link>http://localhost:1313/hugo-quickstart/</link>
       <pubDate>Mon, 09 Sep 2024 15:31:53 +0800</pubDate>
-      <guid>https://example.org/hugo-quickstart/</guid>
+      <guid>http://localhost:1313/hugo-quickstart/</guid>
       <description>Build Your First Hugo Site In this tutorial, you&amp;rsquo;ll learn how to set up and build a Hugo site from scratch using the Ananke theme. Hugo is a fast, open-source static site generator.&#xA;Prerequisites Before you begin, ensure that you have the following tools installed on your machine:&#xA;Git - Install Git. Hugo - Install Hugo. brew install hugo You can verify the installation by running the following commands in your terminal:</description>
     </item>
     <item>
       <title>Knowledge Sharing</title>
-      <link>https://example.org/ssg-introduction/</link>
+      <link>http://localhost:1313/ssg-introduction/</link>
       <pubDate>Mon, 09 Sep 2024 10:57:21 +0800</pubDate>
-      <guid>https://example.org/ssg-introduction/</guid>
+      <guid>http://localhost:1313/ssg-introduction/</guid>
       <description>Introduction to Static Site Generators: A Beginner’s Guide Welcome to the world of Static Site Generators (SSGs)! If you’re looking to build a website and have heard about SSGs but aren’t quite sure what they are or how they work, you’ve come to the right place. In this tutorial, we&amp;rsquo;ll walk you through the basics of SSGs, why they’re useful, and how to get started with one.&#xA;Introduction to Static Site Generators: A Beginner’s Guide What is a Static Site Generator?</description>
+    </item>
+    <item>
+      <title>Project Kickoff Plan: Terminology Database Management</title>
+      <link>http://localhost:1313/terminology/</link>
+      <pubDate>Fri, 06 Sep 2024 18:39:15 +0800</pubDate>
+      <guid>http://localhost:1313/terminology/</guid>
+      <description>Project Overview Background Currently, terminology is dispersed across multiple platforms, including:&#xA;TRM Site: Terms collected during TRM preparation. memoQ: Public and private term bases created during translation. Documentation Site: Manually maintained Excel files. This fragmentation results in inconsistencies, lack of version control, and an ineffective review process, primarily relying on one individual. The goal of this project is to centralize terminology management into a cohesive database that is efficient, reliable, and easily accessible.</description>
     </item>
   </channel>
 </rss>
